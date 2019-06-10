@@ -1,2 +1,2 @@
 # Hola-mundo-cruel
-primeros pasos por gitgud
+primeros pasos por github
